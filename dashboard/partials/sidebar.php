@@ -171,7 +171,7 @@
                     </ul>
                 </li>
                 <!-- Forms & Tables -->
-                <li class="menu-header small text-uppercase"><span class="menu-header-text">Death Birth Services</span></li>
+                <li class="menu-header small text-uppercase"><span class="menu-header-text">Death & Birth Services</span></li>
                 <!-- Forms -->
                 <li class="menu-item">
                     <a href="javascript:void(0);" class="menu-link menu-toggle">
@@ -211,5 +211,47 @@
 
                     </ul>
                 </li>
+                <!-- Forms & Tables -->
+                <li class="menu-header small text-uppercase"><span class="menu-header-text">Voter Card Services</span></li>
+                <!-- Forms -->
+                <li class="menu-item">
+                    <a href="javascript:void(0);" class="menu-link menu-toggle">
+                        <i class="menu-icon tf-icons bx bx-detail"></i>
+                        <div data-i18n="Form Elements">Voter Automatic Services</div>
+                    </a>
+                    <ul class="menu-sub">
+
+                        <li class="menu-item">
+                            <a href="forms-input-groups.html" class="menu-link">
+                                <div data-i18n="Input groups">Print Voter Card</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="forms-input-groups.html" class="menu-link">
+                                <div data-i18n="Input groups">Voter Card Print List</div>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item">
+                    <a href="javascript:void(0);" class="menu-link menu-toggle">
+                        <i class="menu-icon tf-icons bx bx-detail"></i>
+                        <div data-i18n="Form Elements">Voter Manual Services</div>
+                    </a>
+                    <ul class="menu-sub">
+
+                        <li class="menu-item">
+                            <a href="forms-input-groups.html" class="menu-link">
+                                <div data-i18n="Input groups">Print Voter Card</div>
+                            </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="forms-input-groups.html" class="menu-link">
+                                <div data-i18n="Input groups">Voter Card Print List</div>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
         </aside>
         <!-- / Menu -->
