@@ -126,7 +126,7 @@
                     </a>
                     <ul class="menu-sub">
                         <li class="menu-item">
-                            <a href="ui-accordion.html" class="menu-link">
+                            <a href="./aayushmaan/aayushmaan.php" class="menu-link">
                                 <div data-i18n="Accordion">PMJAY Print</div>
                             </a>
                         </li>
